@@ -1,7 +1,7 @@
 # Data-Classification-Using-AI
 
 # Project 2: Data Classification Using AI
-**DecodeLabs Internship — Batch 2026**
+**DecodeLabs Internship**
 
 ## What this does
 A K-Nearest Neighbors (KNN) classifier trained on the Iris dataset (150 samples,
